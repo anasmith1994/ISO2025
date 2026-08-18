@@ -8,7 +8,8 @@
     "profile": {
       "name": "Ana Luisa",
       "surnames": "Vargas Smith",
-      "title": "%%HEADLINE%%",
+      "title": "Técnico de TI en Bigmatic",
+      "description": "Soy técnica junior en sistemas informáticos y redes, con formación en Administración de Sistemas Informáticos en Red (ASIR) y experiencia inicial en entornos IT dentro del sector energético.Actualmente trabajo en Valsolar, donde realizo soporte técnico de primer nivel, apoyo en la administración básica de sistemas y redes, configuración de equipos y dispositivos de comunicación, y supervisión de sistemas de monitorización y acceso remoto. Además, participo en la elaboración de informes de producción y en el seguimiento de datos operativos, colaborando en la detección y registro de incidencias técnicas.Me considero una persona organizada, resolutiva y con gran capacidad de aprendizaje, acostumbrada a trabajar con documentación técnica y a coordinarme con proveedores y equipos internos. Busco seguir creciendo profesionalmente en el ámbito de sistemas, redes y entornos tecnológicos, aportando compromiso, responsabilidad y ganas de aprender. Si quieres conocer más sobre mi trayectoria y proyectos, te invito a visitar mi blog personal.https://anasmithit.es/",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJTTVfrD7kFg0RqaQUlzV-jGg)",
         "country": "España",
@@ -20,6 +21,43 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ana-luisa-vargas-smith-721486365"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bigmatic"
+        },
+        "roles": [
+          {
+            "name": "Técnico de TI",
+            "startDate": "2026-07-01",
+            "challenges": [
+              {
+                "description": "Participación como Técnico IT en el proyecto Renove WiFi para Telefónica y CaixaBank, realizando instalación y sustitución de APs, conexionado de cableado, configuración y puesta en servicio de equipos de red."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VALSOLAR 2006 SL"
+        },
+        "roles": [
+          {
+            "name": "Técnico",
+            "startDate": "2025-06-01",
+            "finishDate": "2026-01-01",
+            "challenges": [
+              {
+                "description": "Realizo soporte IT de primer nivel, apoyo en la administración de sistemas y redes, gestión básica de comunicaciones y monitorización de instalaciones, además de elaborar informes de producción y documentar incidencias."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -52,9 +90,55 @@
       },
       {
         "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior Administración de Sistemas Informáticos en Red 2do año",
+        "startDate": "2025-09-01",
+        "institution": {
+          "name": "Cesur"
+        },
+        "finishDate": "2026-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado de Administración de Sistemas Informáticos en red 1er año",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "IES Castelar"
+        },
+        "finishDate": "2025-06-01"
       }
     ]
   },
